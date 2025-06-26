@@ -1,0 +1,23 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+
+Name=Notification test
+Name[pt_BR]=Teste de notificação
+
+Comment=This is a great way to see how each urgency level is displayed in your system. It creates three notifications with different priority levels: low, normal, and critical.
+Comment[pt_BR]=Essa é uma ótima maneira de verificar como cada nível de urgência é exibido no seu sistema. Cria três notificações com diferentes níveis de prioridade: baixa, normal e crítica.
+
+Exec=/usr/local/bin/teste-notif.sh
+Icon=preferences-system-notifications
+Path=
+Categories=System;
+Terminal=false
+StartupNotify=false
+
+Keywords=test;notification;mako;dunst;
+Keywords[pt_BR]=teste;notificacao;mako;dunst;
+
+
+# https://smarttech101.com/how-to-configure-dunst-notifications-in-linux-with-images
+

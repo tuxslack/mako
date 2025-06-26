@@ -1,0 +1,20 @@
+
+# Fundo (por exemplo Surface 0):
+
+background = #414559
+
+
+# Borda (Overlay 1 ou 0)
+
+border-color = #838ba7
+
+
+# Texto principal (Text)
+
+text = #c6d0f5
+
+
+# Texto secundário (Subtext 1)
+
+text-secondary = #b5bfe2
+

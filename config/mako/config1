@@ -1,0 +1,46 @@
+
+# https://www.lorenzobettini.it/2024/11/sway-wm-notifications-with-mako/
+# https://github.com/emersion/mako/wiki/Example-configuration
+# https://www.lorenzobettini.it/2023/11/hyprland-and-notifications-with-mako/
+
+
+# killall mako
+
+# ou
+
+# makoctl reload
+
+# mako &
+
+
+# ----------------------------------------------------------------------------------------
+
+sort=-time
+layer=overlay
+background-color=#2e3440
+width=700
+height=200
+border-size=2
+border-color=#88c0d0
+border-radius=15
+icons=0
+max-icon-size=64
+default-timeout=7000
+ignore-timeout=1
+font=monospace 14
+
+[urgency=low]
+border-color=#cccccc
+
+[urgency=normal]
+border-color=#d08770
+
+[urgency=high]
+border-color=#bf616a
+default-timeout=7000
+
+[category=mpd]
+default-timeout=7000
+group-by=category
+
+

@@ -1,0 +1,51 @@
+# Tamanho da notificação
+
+# Arquivo: ~/.config/mako/config
+
+
+max-visible=30
+
+# Aumente "width" e "height" conforme necessário.
+
+width=500
+height=1000
+
+# default-timeout=10000
+# text-alignment=center
+
+# ----------------------------------------------------------------------------------------
+
+# Colors
+
+background-color=#eff1f5
+text-color=#4c4f69
+border-color=#1e66f5
+progress-color=over #ccd0da
+
+[urgency=high]
+border-color=#fe640b
+
+# ----------------------------------------------------------------------------------------
+
+# Depois de salvar, reinicie o mako:
+
+# killall mako && mako &
+
+# ----------------------------------------------------------------------------------------
+
+# Teste o conteúdo com quebras de linha manualmente
+
+# notify-send "Título" "Linha 1\nLinha 2\nLinha 3\nLinha 4\nLinha 5\nLinha 6\nLinha 7\nLinha 8\nLinha 9\nLinha 10\nLinha 11\nLinha 12\nLinha 13\nLinha 14\nLinha 15\nLinha 16\nLinha 17\nLinha 18\nLinha 19\nLinha 20\nLinha 21\nLinha 22\nLinha 23\nLinha 24\nLinha 25\nLinha 26\nLinha 27\nLinha 28\nLinha 29\nLinha 30\nLinha 31
+# Linha 32
+# Linha 33
+# Linha 34
+# Linha 35
+# Linha 36
+# Linha 37
+# Linha 38
+# Linha 39
+# Linha 40
+# "
+
+# ----------------------------------------------------------------------------------------
+

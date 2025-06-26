@@ -1,0 +1,9 @@
+
+https://github.com/catppuccin/mako
+https://github.com/dracula/mako
+
+
+Copie o conteúdo da versão de sua escolha de config/mako/ para $HOME/.config/mako/config.
+
+Recarregue o mako com makoctl reload.
+

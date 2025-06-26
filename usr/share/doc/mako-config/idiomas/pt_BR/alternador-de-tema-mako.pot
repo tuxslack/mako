@@ -1,0 +1,99 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-06-22 23:03-0300\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: alternador-de-tema-mako.sh:42
+msgid  "Error: Command %s not found."
+msgstr "Erro: comando %s não encontrado."
+
+#: alternador-de-tema-mako.sh:47 alternador-de-tema-mako.sh:53
+msgid  "Theme for Mako"
+msgstr "Tema para Mako"
+
+#: alternador-de-tema-mako.sh:81 alternador-de-tema-mako.sh:151
+#: alternador-de-tema-mako.sh:168 alternador-de-tema-mako.sh:224
+msgid  "OK"
+msgstr "OK"
+
+#: alternador-de-tema-mako.sh:149
+msgid  "No themes found in %s"
+msgstr "Nenhum tema encontrado em %s"
+
+#: alternador-de-tema-mako.sh:151
+msgid  "Mako Themes"
+msgstr "Temas do Mako"
+
+#: alternador-de-tema-mako.sh:165
+msgid  "Choose Mako Theme"
+msgstr "Escolha o tema Mako"
+
+#: alternador-de-tema-mako.sh:166
+msgid  "Theme"
+msgstr "Tema"
+
+#: alternador-de-tema-mako.sh:168
+msgid  "Cancel"
+msgstr "Cancelar"
+
+#: alternador-de-tema-mako.sh:218
+msgid  "Theme %s applied successfully."
+msgstr "Tema %s aplicado com sucesso."
+
+#: alternador-de-tema-mako.sh:222
+msgid  "Theme Test"
+msgstr "Teste de Tema"
+
+#: alternador-de-tema-mako.sh:222
+msgid  "If you are seeing this notification, the theme is applied."
+msgstr "Se você está vendo esta notificação, o tema está aplicado."
+
+# Se você estiver vendo esta notificação, o tema foi aplicado.
+
+
+#: alternador-de-tema-mako.sh:224
+msgid  "Applied theme"
+msgstr "Tema aplicado"
+
+
+msgid  "Installation"
+msgstr "Instalação"
+
+
+msgid  "Copy or move the content of your chosen version of themes/ to %s"
+msgstr "Copie ou move o conteúdo da versão de sua escolha de themes/ para %s"
+
+
+
+msgid  "Settings"
+msgstr "Configuração"
+
+msgid  "Increase the notification size in the file: ~/.config/mako/config"
+msgstr "Aumente o tamanho da notificação no arquivo: ~/.config/mako/config"
+
+msgid  "Increase 'width' and 'height' as needed."
+msgstr "Aumente 'width' e 'height' conforme necessário."
+
+msgid  "Reload the mako with"
+msgstr "Recarregue o mako com"
+
+msgid  "Example"
+msgstr "Exemplo"
+
+msgid  "The ~/.config/mako directory does NOT exist."
+msgstr "O diretório ~/.config/mako NÃO existe."
+
